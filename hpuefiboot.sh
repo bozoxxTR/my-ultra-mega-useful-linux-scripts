@@ -1,6 +1,6 @@
 # bozoxx
 # script for elitebook 8460p users
-# hardcoded uefi path fix
+# hardcoded experimental uefi fix
 
 
 echo starting
